@@ -16,5 +16,5 @@ We are going to use different technologies such as Python, Amazon Web Services (
 - EC2
 - Apache Kafka
 
-  # Datatased
+  # Datataset
  You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
